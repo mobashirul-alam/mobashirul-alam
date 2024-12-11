@@ -71,6 +71,6 @@
 
 ###
 
-###
+<img src="https://raw.githubusercontent.com/mobashirul-alam/mobashirul-alam/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobashirul-alam&" alt="mobashirul-alam" /></p>
+###
