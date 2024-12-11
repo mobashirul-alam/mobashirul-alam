@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobashirul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="mobashirul-alam" /> </p>
 
-<img align="right" height="250" src="https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829735_1280.jpg"  />
+<img align="right" height="200" src="https://cdn.pixabay.com/photo/2024/06/14/12/15/developer-8829735_1280.jpg"  />
 - 👨‍💻 All of my projects are available at [https://mobashirul-alam-portfolio.vercel.app](https://mobashirul-alam-portfolio.vercel.app)
 
 - 📫 How to reach me **mobashirulalamseam@gmail.com**
