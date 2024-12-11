@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobashirul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="mobashirul-alam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobashirul-alam" alt="mobashirul-alam" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://mobashirul-alam-portfolio.vercel.app](https://mobashirul-alam-portfolio.vercel.app)
 
 - 📫 How to reach me **mobashirulalamseam@gmail.com**
@@ -55,10 +53,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobashirul-alam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mobashirul-alam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div aligh="center">
+  <img src="https://streak-stats.demolab.com?user=mobashirul-alam&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mobashirul-alam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mobashirul-alam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mobashirul-alam&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mobashirul-alam&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 ###
 
