@@ -1,9 +1,3 @@
-<div align="center">
-  <img width="800" height="250" src="https://img.freepik.com/free-photo/man-using-laptop-night-top-view-web-banner-with-copy-space_169016-53607.jpg?t=st=1733934377~exp=1733937977~hmac=d2aee4b1e42676b8b54d0ae8ca217f4d06b437f8d3afb9be1dbdab26b6e71f76&w=1380"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Mobashirul</h1>
 <h3 align="center">Passionate Frontend Developer skilled in Next.js, React, and modern web technologies.</h3>
 
