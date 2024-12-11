@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="900" height="250" src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53051.jpg?t=st=1733934620~exp=1733938220~hmac=a5f4ee55d74092cc2888e1b8c30c2d82208b009406c41df83d4a43707ec80f4c&w=1380"  />
+  <img width="800" height="250" src="https://img.freepik.com/free-photo/man-using-laptop-night-top-view-web-banner-with-copy-space_169016-53607.jpg?t=st=1733934377~exp=1733937977~hmac=d2aee4b1e42676b8b54d0ae8ca217f4d06b437f8d3afb9be1dbdab26b6e71f76&w=1380"  />
 </div>
 
 ###
