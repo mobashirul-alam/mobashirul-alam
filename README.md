@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="900" height="250" src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53051.jpg?t=st=1733934620~exp=1733938220~hmac=a5f4ee55d74092cc2888e1b8c30c2d82208b009406c41df83d4a43707ec80f4c&w=1380"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Mobashirul</h1>
 <h3 align="center">Passionate Frontend Developer skilled in Next.js, React, and modern web technologies.</h3>
 
